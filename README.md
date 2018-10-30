@@ -2,3 +2,5 @@
 core algorithms
 
 ### Queue
+
+### List

@@ -5,4 +5,4 @@ core algorithms
 
 ### List
 
-###
+### Stack

@@ -6,5 +6,3 @@ core algorithms
 ### List
 
 ### Stack
-
-###
